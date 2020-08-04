@@ -20,25 +20,26 @@ import * from google-keep-api
 
 ## Features
 
-  * Login with any Google account.
-  * Get all of the notes (title, content, create date, last edit date, etc).
-  * Create a new note.
-  * Edit a note.
-  * Delete a note.
-  * Archive a note.
-  * Search for a note.
-  * Add an image to a note.
-  * Change the color for a note.
-  * Add a collaborator to a note.
-  * Add a reminder to a note.
-  * Pin/UnPin a note.
-  * Add label.
-  * Edit a label.
-  * Delete a label.
-  * Add a note to a label.
-  * Remove a note from a label.
-  * Get notes in trash.
-  * Empty the notes in the trash.
+  - [ ] Login with any Google account.
+  - [ ] Get all of the notes (title, content, create date, last edit date, etc).
+  - [ ] Create a new note.
+  - [ ] Edit a note.
+  - [ ] Delete a note.
+  - [ ] Archive a note.
+  - [ ] Search for a note.
+  - [ ] Add an image to a note.
+  - [ ] Change the color for a note.
+  - [ ] Add a collaborator to a note.
+  - [ ] Add a reminder to a note.
+  - [ ] Pin/Unpin a note.
+  - [ ] Add label.
+  - [ ] Edit a label.
+  - [ ] Delete a label.
+  - [ ] Add a note to a label.
+  - [ ] Remove a note from a label.
+  - [ ] Get notes in trash.
+  - [ ] Empty the notes in the trash.
+  - [ ] Search in a specific label.
 
 ## Want to help?
 

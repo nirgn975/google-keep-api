@@ -1,6 +1,6 @@
 # Google Keep API
 
-![Continuous Integration](https://github.com/nirgn975/google-keep-api/workflows/Continuous%20Integration/badge.svg?branch=master)
+![Continuous Integration](https://github.com/nirgn975/google-keep-api/workflows/Continuous%20Integration/badge.svg?branch=master) [![codecov](https://codecov.io/gh/nirgn975/google-keep-api/branch/master/graph/badge.svg)](https://codecov.io/gh/nirgn975/google-keep-api)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/google-keep-api/master/assets/keep-logo.png" align="right" width="100">](https://keep.google.com)
 

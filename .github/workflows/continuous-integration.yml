@@ -25,7 +25,7 @@ jobs:
 
     - name: Check lint errors
       run: |
-        npm run tslint
+        npm run lint
 
     - name: Run Tests
       run: |

@@ -1,5 +1,7 @@
 # Google Keep API
 
+![Continuous Integration](https://github.com/nirgn975/google-keep-api/workflows/Continuous%20Integration/badge.svg?branch=master)
+
 [<img src="https://raw.githubusercontent.com/nirgn975/google-keep-api/master/assets/keep-logo.png" align="right" width="100">](https://keep.google.com)
 
 > Google Keep is a note-taking service developed by Google. Launched on March 20, 2013, Google Keep is available on the web, and has mobile apps for the Android and iOS mobile operating systems. Keep offers a variety of tools for taking notes, including text, lists, images, and audio.

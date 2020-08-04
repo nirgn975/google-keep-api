@@ -30,3 +30,7 @@ jobs:
     - name: Run Tests
       run: |
         npm run test
+
+    - name: Run coverage
+      run: |
+        npx codecov -t ${{ secrets.CODECOV_TOKEN }}
